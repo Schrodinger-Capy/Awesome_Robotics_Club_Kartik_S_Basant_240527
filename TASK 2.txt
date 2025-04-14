@@ -1,0 +1,3 @@
+TASK 2:
+
+This project fascinates me because it combines computer vision, electronics, mechanics, and programming to create a robo that balances a ball on a flat surface. It uses real-time computer vision positioning to control surface angles via inverse kinematics and actuators. I find it really cool how multiple complex concepts come together to achieve such precise control.
